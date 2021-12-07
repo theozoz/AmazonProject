@@ -1,0 +1,38 @@
+Created by TESTINIUM on 1.12.2021
+
+This is a concept file with following syntax for each concept.
+
+
+# Amazon Ayna sayfaya gidilir
+* Go to this url "https://www.amazon.com.tr/"
+
+# Login sayfasını açılır
+* Go To login page
+
+# Login olunur
+* Login with email "bitexentest111@gmail.com" ve password "AS.as.12"
+
+# Search alanında <key> araması yapılır
+* "1" second wait
+* Search <key> on home page
+
+# Bir ürün seçilir
+* "2" second wait
+* Select random element
+
+# Ürün detay ekranında ürün ismi kontrolü yapılır
+* Control element Title
+
+# Ürün detay sayfasında ürün fiyatı kontrol edilir
+* Check element Price
+
+# Ürün sepete eklenir
+* Add to card
+
+# Sepetim sayfasına gidilir
+* Go to basket page
+
+#Ürün fiyatı kontrol edilir
+* Control basket price product
+
+
